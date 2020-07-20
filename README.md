@@ -1,3 +1,13 @@
+# Lead Me Test Task
+
+IMPORTANT
+
+* app uses check for validity mail and phone numbers
+* next button disabled on empty or invalid fields values
+* app uses [https://emailjs.com](https://emailjs.com) service and [https://https://yandex.by](https://https://yandex.by) post service
+* services used only in educational purposes (non commercials)
+* design owned by Lead Me Agency [https://leadme.agency/](https://leadme.agency/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

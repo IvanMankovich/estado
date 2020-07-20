@@ -29,7 +29,7 @@ class App extends React.Component {
             name: 'E-stado',
             message: jsonResult
         }
-        emailjs.send('mail_ru', 'template_0iQK8f1e', templateParams, 'user_D7RLROMMbazb5bBgDJaZG')
+        emailjs.send('yandex', 'template_0iQK8f1e', templateParams, 'user_D7RLROMMbazb5bBgDJaZG')
             .then((result) => {
                 console.log(result.text);
             }, (error) => {
